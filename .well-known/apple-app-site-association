@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["AT94ZNK7Q2.com.peri.Hype"],
+            "components": [{
+                "/": "/p/*",
+                "comment": "Post deep links"
+            }, {
+                "/": "/t/*",
+                "comment": "Topic deep links"
+            }, {
+                "/": "/u/*",
+                "comment": "User profile deep links"
+            }]
+        }]
+    }
+}
